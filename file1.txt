@@ -1,2 +1,2 @@
-This iS file 1 
+ThIs iS file 1 
 Version 3.0
